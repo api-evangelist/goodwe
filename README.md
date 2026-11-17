@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GoodWe (固德威) is a global provider of solar inverter and energy storage solutions, offering residential, commercial and utility‑scale photovoltaic inverters, integrated storage systems, and smart energy management platforms. Founded in China, the company emphasizes digital, intelligent energy solutions and has been recognized among top solar inverter suppliers worldwide.
+GoodWe, known as 固德威, is a publicly listed company on China’s STAR Market, specializing in photovoltaic inverter solutions. It offers a comprehensive portfolio including solar and storage inverters, battery systems, charging stations, photovoltaic building materials, and smart energy management platforms. Serving residential, commercial, and utility-scale projects, GoodWe’s products are sold in over 100 countries, positioning its residential storage inverter as a global leader and ranking among the top ten inverter manufacturers worldwide.
 
-**Areas:** Company · Solar · Inverters · Energy · Renewable
+**Areas:** Company · Solar · Inverters · Energy Storage · Renewable Energy
 
 ## GoodWe on APIs.io
 
@@ -90,7 +90,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 2.5** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 3.2** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -101,14 +101,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -128,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Energy & Utilities
+**Regulatory alignment 4.9** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/goodwe/](https://apis.io/providers/goodwe/).
 
